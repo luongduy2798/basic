@@ -1,6 +1,6 @@
 # 🟢 Cơ Bản (Basic)
 
-## 📂 Array Operations (10 bài)
+## 📂 Array Operations
 
 ### Bài 1: Tìm phần tử lớn nhất và nhỏ nhất trong mảng
 
